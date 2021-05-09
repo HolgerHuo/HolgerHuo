@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+I'm Holger from Tianjin, China!
+
+- 🔭 I’m currently working on Mastodon, Matrix and a few other projects...
+- 🌱 I’m currently learning Python, C, JavaScript, HTML and CSS...
+- 📫 How to reach me: 
+  - Matrix: [@holger:dragon-fly.club](https://matrix.to/#/@holger:dragon-fly.club)
+  - E-mail: [admin@holger.net.cn](mailto:admin@holger.net.cn)
+- 👯 Follow me at:
+  - Mastodon: [@holgerhuo@dragon-fly.club](https://mast.dragon-fly.club/@holgerhuo)
+  - Twitter: [@Holger_Huo](https://twitter.com/Holger_Huo)
+  - Blog: [Holger's Blog](https://blog.holger.net.cn)
+
+[![Holger's github stats](https://github-readme-stats.vercel.app/api?username=HolgerHuo&show_icons=true&theme=cobalt)](https://github.com/HolgerHuo/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HolgerHuo)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **HolgerHuo/HolgerHuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
