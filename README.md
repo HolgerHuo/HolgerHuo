@@ -5,8 +5,8 @@ I'm Holger from Tianjin, China!
 - 🔭 I’m currently working on Mastodon, Matrix and a few other projects...
 - 🌱 I’m currently learning Python, C, JavaScript, HTML and CSS...
 - 📫 How to reach me: 
-  - Matrix: [@holger:dragon-fly.club](https://matrix.to/#/@holger:dragon-fly.club)
-  - E-mail: [admin@holger.net.cn](mailto:admin@holger.net.cn)
+  - Matrix: [@holgerhuo:matrix.org](https://matrix.to/#/@holgerhuo:matrix.org) 
+  - E-mail: [holgerhuo@outlook.com](mailto:holgerhuo@outlook.com)
 - 👯 Follow me at:
   - Mastodon: [@holgerhuo@dragon-fly.club](https://mast.dragon-fly.club/@holgerhuo)
   - Twitter: [@Holger_Huo](https://twitter.com/Holger_Huo)
