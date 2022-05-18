@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=holgerhuo.visitor-badge)
+
 ### Hi there 👋
 
 I'm Holger from Tianjin, China!
@@ -12,9 +14,13 @@ I'm Holger from Tianjin, China!
   - Twitter: [@Holger_Huo](https://twitter.com/Holger_Huo)
   - Blog: [Holger's Blog](https://blog.holger.net.cn)
 
-[![Holger's github stats](https://github-readme-stats.vercel.app/api?username=HolgerHuo&show_icons=true&theme=cobalt)](https://github.com/HolgerHuo/)
+![Holger's github stats](https://github-readme-stats.vercel.app/api?username=HolgerHuo&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HolgerHuo)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HolgerHuo)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=holgerhuo&date_format=M%20j%5B%2C%20Y%5D)
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=holger_huo&loved=true)
 
 <!--
 **HolgerHuo/HolgerHuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
