@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Holger from Tianjin, China!
+I'm Holger!
 
 - 🔭 I’m currently working on [Mastodon](https://github.com/mastodon/mastodon), [Telegram-Netease-Bot](https://github.com/HolgerHuo/telegram-netease-bot/) and a few other projects...
 - 🌱 I’m currently learning Python, JavaScript, C, and full-stack...
