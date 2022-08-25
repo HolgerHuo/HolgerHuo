@@ -12,7 +12,7 @@ I'm Holger!
 - 👯 Follow me at:
   - Mastodon: [@holgerhuo@dragon-fly.club](https://mast.dragon-fly.club/@holgerhuo)
   - Twitter: [@Holger_Huo](https://twitter.com/Holger_Huo)
-  - Blog: [Holger's Blog](https://blog.holger.net.cn)
+  - Blog: [Holger's Blog](https://holger.one)
 
 ![Holger's github stats](https://github-readme-stats.vercel.app/api?username=HolgerHuo&show_icons=true&theme=cobalt)
 
