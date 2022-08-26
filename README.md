@@ -8,7 +8,7 @@ I'm Holger!
 - 🌱 I’m currently learning Python, JavaScript, C, and full-stack...
 - 📫 How to reach me: 
   - Matrix: [@holgerhuo:matrix.org](https://matrix.to/#/@holgerhuo:matrix.org) 
-  - E-mail: [holgerhuo@outlook.com](mailto:holgerhuo@outlook.com)
+  - E-mail: [i@holger.one](mailto:i@holger.one)
 - 👯 Follow me at:
   - Mastodon: [@holgerhuo@dragon-fly.club](https://mast.dragon-fly.club/@holgerhuo)
   - Twitter: [@Holger_Huo](https://twitter.com/Holger_Huo)
